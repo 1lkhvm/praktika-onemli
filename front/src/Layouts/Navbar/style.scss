@@ -1,0 +1,49 @@
+.Navbar {
+    display: flex;
+    background-color: #222222;
+    width: 100%;
+    justify-content: space-between;
+
+
+
+    .nav-logo {
+        width: 10%;
+        justify-content: space-around;
+
+        display: flex;
+        align-items: center;
+
+        .Link {
+            font-size: 20px;
+            text-decoration: none;
+            color: #9d9d91;
+        }
+    }
+
+    .nav-menu {
+        width: 25%;
+        display: flex;
+        align-items: center;
+
+        ul {
+
+
+
+            li {
+                display: flex;
+                list-style: none;
+                gap: 25px;
+                text-decoration: none;
+
+                .Link {
+                    text-decoration: none;
+                    color: #9d9d91;
+
+                   
+                }
+
+            }
+        }
+
+    }
+}

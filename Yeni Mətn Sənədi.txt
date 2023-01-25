@@ -1,0 +1,9 @@
+3dəq -Router
+15 dq Navbar+ router daxil
+5dq Section 1 hazir (problemim import etmemeyim)
+backend hazir
+
+mapda problemlerim var 30 deqiqe vaxtimi aldi
+
+delete problemi
+axioss
